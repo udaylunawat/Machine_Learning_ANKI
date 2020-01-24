@@ -10,7 +10,7 @@ To learn more, take a look at https://apps.ankiweb.net and the [docs](https://ap
 
 # available decks
 
-- __Machine_Learning_ANKI__
+- __ML Notes__
 
 # how to use a deck
 
