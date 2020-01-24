@@ -4,6 +4,203 @@
         {
             "__type__": "Deck",
             "children": [],
+            "crowdanki_uuid": "5097d9e8-3e84-11ea-be3a-74867a6fa926",
+            "deck_config_uuid": "5097d9e9-3e84-11ea-b3ec-74867a6fa926",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "paste-4c01fe7d9772828f208724c2b55bcd243ac917ae.jpg"
+            ],
+            "mid": "1562413664677",
+            "name": "Pending",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Generalisation accuracy",
+                        "<div>18.13</div>20:42",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "c]Y}b7<o|t",
+                    "note_model_uuid": "50980100-3e84-11ea-a186-74867a6fa926",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Why Kfold CV ?",
+                        "18.14<div>01:15</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "H2UATd5~6w",
+                    "note_model_uuid": "50980100-3e84-11ea-a186-74867a6fa926",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "How to decide the right K in K-fold CV ?",
+                        "18.14<div>15:00</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "pQkk&_L]T{",
+                    "note_model_uuid": "50980100-3e84-11ea-a186-74867a6fa926",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Problem with K-fold CV ?",
+                        "15:45",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "dFL@kp)0Qc",
+                    "note_model_uuid": "50980100-3e84-11ea-a186-74867a6fa926",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Parameter v/s hyperparameter",
+                        "https://machinelearningmastery.com/difference-between-a-parameter-and-a-hyperparameter/",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "cQ[4mG>Eo-",
+                    "note_model_uuid": "50980100-3e84-11ea-a186-74867a6fa926",
+                    "tags": [
+                        "Basics"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Can KNN be used for classification as well as regression ?",
+                        "YES. Aur kya likhu pata nhi.",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "JBx@{cOmay",
+                    "note_model_uuid": "50980100-3e84-11ea-a186-74867a6fa926",
+                    "tags": [
+                        "K-NN"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Normalization v/s standardization v/s regularization",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "MMR{;`$ETC",
+                    "note_model_uuid": "50980100-3e84-11ea-a186-74867a6fa926",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Count vectorizer v/s bag of words",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Dz3~wK=7,%",
+                    "note_model_uuid": "50980100-3e84-11ea-a186-74867a6fa926",
+                    "tags": [
+                        "NLP"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Instance v/s attributes v/s methods",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Bt$],T1aMG",
+                    "note_model_uuid": "50980100-3e84-11ea-a186-74867a6fa926",
+                    "tags": [
+                        "python"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Class pri<span>ors</span>",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "A<YlN*4ag6",
+                    "note_model_uuid": "50980100-3e84-11ea-a186-74867a6fa926",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Explain signed distance in Logistic regression",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "rmP~ZhlKsI",
+                    "note_model_uuid": "50980100-3e84-11ea-a186-74867a6fa926",
+                    "tags": [
+                        "Logistic_Regression"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Why does L1 reg create sparsity in W as compared to L2 reg ?",
+                        "",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "h+>h{,?}c1",
+                    "note_model_uuid": "50980100-3e84-11ea-a186-74867a6fa926",
+                    "tags": [
+                        "Optimization"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<p>Content-based filtering for recommendation systems</p>",
+                        "<p><img src=\"paste-4c01fe7d9772828f208724c2b55bcd243ac917ae.jpg\"></p><p>Traditionally, two approaches were used to give recommendations: content-based filtering\nand collaborative filtering.&nbsp;</p><p>Content-based filtering consists of learning what users like based on the description of the\ncontent they consume. For example, if the user of a news site often reads news articles on\nscience and technology, then we would suggest to this user more documents on science and\ntechnology. More generally, we could create one training set per user and add news articles\nto this dataset as a feature vector x and whether the user recently read this news article as a\nlabel y. Then we build the model of each user and can regularly examine each new piece of\ncontent to determine whether a specific user would read it or not.&nbsp;</p><p>The content-based approach has many limitations. For example, the user can be trapped in\nthe so-called filter bubble: the system will always suggest to that user the information that\nlooks very similar to what user already consumed. That could result in complete isolation of\nthe user from information that disagrees with their viewpoints or expands them. On a more\npractical side, the users might just stop following recommendations, which is undesirable.<br></p>"
+                    ],
+                    "flags": 0,
+                    "guid": "z2iN6^Lw<[",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
             "crowdanki_uuid": "1355f1a4-3db5-11ea-a55a-74867a6fa926",
             "deck_config_uuid": "1355ca99-3db5-11ea-8cde-74867a6fa926",
             "desc": "",
@@ -5270,6 +5467,35 @@
                     ]
                 }
             ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "509f2ce9-3e84-11ea-a867-74867a6fa926",
+            "deck_config_uuid": "5097d9e9-3e84-11ea-b3ec-74867a6fa926",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "Extras",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Difference between Factorization machines and Matrix Factorization?<br>",
+                        "https://stats.stackexchange.com/questions/108901/difference-between-factorization-machines-and-matrix-factorization"
+                    ],
+                    "flags": 0,
+                    "guid": "k>Ra13Sl(V",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": [
+                        "Rcommender",
+                        "systems"
+                    ]
+                }
+            ]
         }
     ],
     "crowdanki_uuid": "1355ca98-3db5-11ea-92ff-74867a6fa926",
@@ -5322,6 +5548,51 @@
                 "perDay": 100
             },
             "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "5097d9e9-3e84-11ea-b3ec-74867a6fa926",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 20,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "timer": 0
         }
     ],
     "desc": "",
@@ -5331,6 +5602,84 @@
     "media_files": [],
     "name": "Machine Learning Anki",
     "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "50980100-3e84-11ea-a186-74867a6fa926",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Add Reverse",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic (optional reversed card)",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "all",
+                    [
+                        1,
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{#Add Reverse}}{{Back}}{{/Add Reverse}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
