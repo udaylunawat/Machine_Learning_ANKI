@@ -4,203 +4,6 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "5097d9e8-3e84-11ea-be3a-74867a6fa926",
-            "deck_config_uuid": "5097d9e9-3e84-11ea-b3ec-74867a6fa926",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 10,
-            "extendRev": 50,
-            "media_files": [
-                "paste-4c01fe7d9772828f208724c2b55bcd243ac917ae.jpg"
-            ],
-            "mid": "1562413664677",
-            "name": "Pending",
-            "notes": [
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Generalisation accuracy",
-                        "<div>18.13</div>20:42",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "c]Y}b7<o|t",
-                    "note_model_uuid": "50980100-3e84-11ea-a186-74867a6fa926",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Why Kfold CV ?",
-                        "18.14<div>01:15</div>",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "H2UATd5~6w",
-                    "note_model_uuid": "50980100-3e84-11ea-a186-74867a6fa926",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "How to decide the right K in K-fold CV ?",
-                        "18.14<div>15:00</div>",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "pQkk&_L]T{",
-                    "note_model_uuid": "50980100-3e84-11ea-a186-74867a6fa926",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Problem with K-fold CV ?",
-                        "15:45",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "dFL@kp)0Qc",
-                    "note_model_uuid": "50980100-3e84-11ea-a186-74867a6fa926",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Parameter v/s hyperparameter",
-                        "https://machinelearningmastery.com/difference-between-a-parameter-and-a-hyperparameter/",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "cQ[4mG>Eo-",
-                    "note_model_uuid": "50980100-3e84-11ea-a186-74867a6fa926",
-                    "tags": [
-                        "Basics"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Can KNN be used for classification as well as regression ?",
-                        "YES. Aur kya likhu pata nhi.",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "JBx@{cOmay",
-                    "note_model_uuid": "50980100-3e84-11ea-a186-74867a6fa926",
-                    "tags": [
-                        "K-NN"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Normalization v/s standardization v/s regularization",
-                        "",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "MMR{;`$ETC",
-                    "note_model_uuid": "50980100-3e84-11ea-a186-74867a6fa926",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Count vectorizer v/s bag of words",
-                        "",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "Dz3~wK=7,%",
-                    "note_model_uuid": "50980100-3e84-11ea-a186-74867a6fa926",
-                    "tags": [
-                        "NLP"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Instance v/s attributes v/s methods",
-                        "",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "Bt$],T1aMG",
-                    "note_model_uuid": "50980100-3e84-11ea-a186-74867a6fa926",
-                    "tags": [
-                        "python"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Class pri<span>ors</span>",
-                        "",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "A<YlN*4ag6",
-                    "note_model_uuid": "50980100-3e84-11ea-a186-74867a6fa926",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Explain signed distance in Logistic regression",
-                        "",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "rmP~ZhlKsI",
-                    "note_model_uuid": "50980100-3e84-11ea-a186-74867a6fa926",
-                    "tags": [
-                        "Logistic_Regression"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Why does L1 reg create sparsity in W as compared to L2 reg ?",
-                        "",
-                        ""
-                    ],
-                    "flags": 0,
-                    "guid": "h+>h{,?}c1",
-                    "note_model_uuid": "50980100-3e84-11ea-a186-74867a6fa926",
-                    "tags": [
-                        "Optimization"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "<p>Content-based filtering for recommendation systems</p>",
-                        "<p><img src=\"paste-4c01fe7d9772828f208724c2b55bcd243ac917ae.jpg\"></p><p>Traditionally, two approaches were used to give recommendations: content-based filtering\nand collaborative filtering.&nbsp;</p><p>Content-based filtering consists of learning what users like based on the description of the\ncontent they consume. For example, if the user of a news site often reads news articles on\nscience and technology, then we would suggest to this user more documents on science and\ntechnology. More generally, we could create one training set per user and add news articles\nto this dataset as a feature vector x and whether the user recently read this news article as a\nlabel y. Then we build the model of each user and can regularly examine each new piece of\ncontent to determine whether a specific user would read it or not.&nbsp;</p><p>The content-based approach has many limitations. For example, the user can be trapped in\nthe so-called filter bubble: the system will always suggest to that user the information that\nlooks very similar to what user already consumed. That could result in complete isolation of\nthe user from information that disagrees with their viewpoints or expands them. On a more\npractical side, the users might just stop following recommendations, which is undesirable.<br></p>"
-                    ],
-                    "flags": 0,
-                    "guid": "z2iN6^Lw<[",
-                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
-                    "tags": []
-                }
-            ]
-        },
-        {
-            "__type__": "Deck",
-            "children": [],
             "crowdanki_uuid": "1355f1a4-3db5-11ea-a55a-74867a6fa926",
             "deck_config_uuid": "1355ca99-3db5-11ea-8cde-74867a6fa926",
             "desc": "",
@@ -732,6 +535,7 @@
             "extendRev": 50,
             "media_files": [
                 "-uIalImQqxZ913FHkoQuUenkiFCDJOGl-2RpH_fmb2HZwk2xea9TUL3q3AdEN1x2FPaDi5k9N5A5TBlXiLJPMGnt1HXDY8u-uvk0JDj8POeF5FMROIe3Foz_WiQBYf9y9PKL.png",
+                "-yXdlMMV1B3DrMtU16_dEdoX1TiSIHHqmENJ9sqqis2wi26_7Na6f7JVz9on5HkAfgHSKVaGDuK1SvLkigpx2xzaAjsS2ET1gnIgt-9G8WMGDOy69tEOPf2ovrcAMwo-kHF4.png",
                 "1024px-Binomial_distribution_pmf.svg.png",
                 "1moHhd-crJr5wLCdbPgSitAIZrHxYzoEHfZd46-Sq2eeazn-wpeyasY5LOsE87rKEe8mlJVdABBi9Eeu6G2soF1FR9gXchqaQtUqztsP8BdUKa6xJCe8CTZhwzvo7rZDnOg0.png",
                 "3hUELI1ib0pa06scj_HPAyu4AJb9HaItXhCwrsDwhn82TkLDTX6ZxgdLQDwaLUZBPcsvCHsevhuuwAlBaBMBVmVp_6eywJzTVdrt02HIh2IYQ8P2Kr4UZDIpN8OlrW0nt_sY.png",
@@ -741,6 +545,7 @@
                 "DkchCr3JI3i3q6S3AhVeHUuqpVUzWFhXlVdvGYHoh4j0PmYYmEEihEX0yOHIkv5cwV8aURLP_l7LkcOuC6LW_DmZCPdEPUAVC00CYbMQ-lToFwIqNrHiOHjl3FNvXAvdW2GY.png",
                 "DrZ_CUoPtHGtuyvy1rzKw5um95nVgc4AFjpjN0PGwiw4KElf8A1blPJcPyuhPDnC60zR4iHHI2cT4BOHSLhrvH4ax9crSHzhmtkEjlocJmfHbike0wEPpeASAPR499FJPVae.png",
                 "E-nGmjv-sm2IeicqwRDAZQYcjz_gpPufJJMvE7Oa4oLxu9A6rsRnDWBiei3ZR7c7T5C7066LBiehdtlCAoiMaz0TZKyOkljLmB2Xg8ZVuvenQW0BiCVsrJnXUUUWI3cVonv9.png",
+                "FIde-i1fkn7cg8-bIxXral6yjsw7WQ0dYCqi9zbXJkz1x55QUVoqujZNyun3sBAug2HhFTtevDvsUPj2aesgExglScd2hVMLEJhzxJeXf2B-JhHhK3rBm9e-niuQ5wUJ3kfh.png",
                 "FdmcngL5bySvNyfDuzXfL5sRzrv9mB9au6EiG1zLAUpkOt0V7e0DA3SqDR4DOnA4uyQsfI-iLM_LZpiH4b29QR4fsLoFlyOLeEWlxpFhxxWqxSRHUwwX26vx5CTSNTNsYyjP.png",
                 "GMRpFGyWs6qu_2PTZ5p_-LaZPq2hE-aC2VxqNS9a6YBtUqjcg_A-qkNRiJVhzChlINlmMsXuFcukTlnCJPE1WKSCjDIZXtTbMtUuUcclHF4_MdujpoZbWT3turzmA1OF282x.png",
                 "GoBJx8DuOa0MP4-e8oeZIncuEy3ygR_EXBAiTWITG3vwQLD60xFplo9AbuEA4dQMIiwfBa_PUY9WmXisGx6cyj9KZ9StR4EqdfSevPOyq96JCDRyqQ4_vQjfHwdbX-jPAF31.png",
@@ -773,6 +578,7 @@
                 "nqp3S8f9tSoAa_Xr-uz1pwH1Jg019Qg4BLDYGqxnfrDzcJRRASOUL6Ub_M_ros4w-meUiGFTQKO0xxuXfVALUOUHrFRw2ZPCBKoOC_f9hhOtDCuG-zE1CZMti9WB-8KmHlt0.png",
                 "paste-1d7e911742c56967e1051a254d74010f204a1117.jpg",
                 "paste-4a97959a95c06938f902127d1b2bf31563b83a85.jpg",
+                "paste-cab3e31bffd27baa6310b5559831306fd4d947f9.jpg",
                 "paste-fe765f23724813199a798946ab64204b4daa840d.jpg",
                 "r0T8F6UF6cYjwuT0HKpQhfEAIkZciUnGy7xJBpeDt5tX0_tXMItcYIunKgB4tXv57Oo1beY6ypMaDxiM1BbEVIEbZ2DlyXmrozEJRBBlTmcbjM_AqwgcRONGn-KLV3OQGrUz.png",
                 "reI2gHC96fel5mM443zoJgr144JCPN1KA73ytqUAuz3ovC1xKjgFPS4JpiDSIUko4pSKnw4vUb5ljRYqa5PYbOGXMUuoPh6ScxhcvVGt0QiBnACwRDD1t3qgmKTKqdGNaMtx.png",
@@ -1259,6 +1065,62 @@
                     "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
                     "tags": [
                         "Probability"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Standard Normal Variate",
+                        "<div style=\"\">If you’ve a random variable Z such that its mean = 0 and variance = 1 then it is SNV</div><br>"
+                    ],
+                    "flags": 0,
+                    "guid": "z]MP3$Q@}P",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": [
+                        "Linear_Algebra"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Standardization of Random Variable",
+                        "<b><img src=\"-yXdlMMV1B3DrMtU16_dEdoX1TiSIHHqmENJ9sqqis2wi26_7Na6f7JVz9on5HkAfgHSKVaGDuK1SvLkigpx2xzaAjsS2ET1gnIgt-9G8WMGDOy69tEOPf2ovrcAMwo-kHF4.png\"></b><div>We substract the mean and divide it by standard deviation for Standardization</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "m4s=!;#u#|",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": [
+                        "Linear_Algebra"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "How Kernel Density Estimation is applied",
+                        "<img src=\"FIde-i1fkn7cg8-bIxXral6yjsw7WQ0dYCqi9zbXJkz1x55QUVoqujZNyun3sBAug2HhFTtevDvsUPj2aesgExglScd2hVMLEJhzxJeXf2B-JhHhK3rBm9e-niuQ5wUJ3kfh.png\"><div>Kernel density estimation we make graph in red(kernel) from the sample points and then we sum up all the heights as seen from x in the above diagram<b><br></b></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "lG8SrBT!ac",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": [
+                        "Linear_Algebra"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Bandwidth in KDE estimation",
+                        "<img src=\"paste-cab3e31bffd27baa6310b5559831306fd4d947f9.jpg\"><div><div style=\"\">If bandwidth is low we get smoothed (red)&nbsp; if too large then too smoothed (green)</div><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "qWTHANkGZD",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": [
+                        "Linear_Algebra"
                     ]
                 },
                 {
@@ -1979,11 +1841,9 @@
             "extendNew": 10,
             "extendRev": 50,
             "media_files": [
-                "-yXdlMMV1B3DrMtU16_dEdoX1TiSIHHqmENJ9sqqis2wi26_7Na6f7JVz9on5HkAfgHSKVaGDuK1SvLkigpx2xzaAjsS2ET1gnIgt-9G8WMGDOy69tEOPf2ovrcAMwo-kHF4.png",
                 "2iIMIBhgXGgQqmX317sP6WW6ppiPJUEkFDkb4uRNEAqEC98cqGutUXSs1v01_WqwyQEIbcFXmjAz2AYjRHObRlffusREv_oIEon-2leKlkRbCn40FX6eGP3t8l5A-M95S7Tx.png",
                 "46uXJ7W18ALd9_NvyTkKZxTzyxi8t24Fk8w55qrXpD-ofjMV7w58-dtcczn7WwjR0JuR6fGt4mEIn8iIM1zvmaXpcpSVJnaYbMSIAk4TEieekIGoeK6lW-5mN2EzIJq8PPXH.png",
                 "DwcHLxgFI3f1n3T6fXA4xKxFGuKwFb3sf3kt2mULHXnjVA3U8AHKfxRwU3HKSnuPvc5sTr49y0qvgurwB6uzY6tX9aipUUpoDm2I6TiORzFg1w9DnH-7n8XvPBZUxog52OHX.png",
-                "FIde-i1fkn7cg8-bIxXral6yjsw7WQ0dYCqi9zbXJkz1x55QUVoqujZNyun3sBAug2HhFTtevDvsUPj2aesgExglScd2hVMLEJhzxJeXf2B-JhHhK3rBm9e-niuQ5wUJ3kfh.png",
                 "PXFOtHH3DKfbqef4i0aSRq2PwVb0ZxkJyTugo9yZ-pvTKvo10IgbpJTcbXWqeepc9tScDZeXEByAyVvby6jkNY6RLbDnkCz3O7ASaP4fSQ99KF8GF72TGTqVfEVWmftd8kHN.png",
                 "f2kYzs7.jpg",
                 "h6KMlMAqxqYL5NLWQa5i9vkq5QoGwFuHnOahPsdgvYnVG3cfdluxp1uosYuxVj-AebpR3k5uYHfuZkylkrXhaBqMeWgKP3CFWdwzUZsCY9MCKnV3Kk-ftT_dCmzOjhDiKqid.png",
@@ -1994,7 +1854,6 @@
                 "paste-3676982e988f6a789c0893eed2327039560fed6b.jpg",
                 "paste-51dfe6e3d13ce329fd3cf8a4b27e497653e7e8a7.jpg",
                 "paste-bb87904edd333f16742da11d1515816f6f849a1f.jpg",
-                "paste-cab3e31bffd27baa6310b5559831306fd4d947f9.jpg",
                 "paste-d1a2eb34c46f8a8105c0839330fc8bdb2a8c8f79.jpg",
                 "paste-feb696715bc8981f40a647e611674a5c2b8d117f.jpg",
                 "xpKmRe--cI6bycwyffSK8rWWawbFF9pwcMydWI0rBx315zBT5ThVWgaSEhQlyNgL1_Qv4MlaZ5GYAR_V-baPjiPw8QOpxUE5ku5igoJ28Xrgpef_nkf1n4klTNFbCyAMpfq3.png"
@@ -2248,62 +2107,6 @@
                     ],
                     "flags": 0,
                     "guid": "FHT20Kgi1a",
-                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
-                    "tags": [
-                        "Linear_Algebra"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Standard Normal Variate",
-                        "<div style=\"\">If you’ve a random variable Z such that its mean = 0 and variance = 1 then it is SNV</div><br>"
-                    ],
-                    "flags": 0,
-                    "guid": "z]MP3$Q@}P",
-                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
-                    "tags": [
-                        "Linear_Algebra"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Standardization of Random Variable",
-                        "<b><img src=\"-yXdlMMV1B3DrMtU16_dEdoX1TiSIHHqmENJ9sqqis2wi26_7Na6f7JVz9on5HkAfgHSKVaGDuK1SvLkigpx2xzaAjsS2ET1gnIgt-9G8WMGDOy69tEOPf2ovrcAMwo-kHF4.png\"></b><div>We substract the mean and divide it by standard deviation for Standardization</div>"
-                    ],
-                    "flags": 0,
-                    "guid": "m4s=!;#u#|",
-                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
-                    "tags": [
-                        "Linear_Algebra"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "How Kernel Density Estimation is applied",
-                        "<img src=\"FIde-i1fkn7cg8-bIxXral6yjsw7WQ0dYCqi9zbXJkz1x55QUVoqujZNyun3sBAug2HhFTtevDvsUPj2aesgExglScd2hVMLEJhzxJeXf2B-JhHhK3rBm9e-niuQ5wUJ3kfh.png\"><div>Kernel density estimation we make graph in red(kernel) from the sample points and then we sum up all the heights as seen from x in the above diagram<b><br></b></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "lG8SrBT!ac",
-                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
-                    "tags": [
-                        "Linear_Algebra"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "data": "",
-                    "fields": [
-                        "Bandwidth in KDE estimation",
-                        "<img src=\"paste-cab3e31bffd27baa6310b5559831306fd4d947f9.jpg\"><div><div style=\"\">If bandwidth is low we get smoothed (red)&nbsp; if too large then too smoothed (green)</div><br></div>"
-                    ],
-                    "flags": 0,
-                    "guid": "qWTHANkGZD",
                     "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
                     "tags": [
                         "Linear_Algebra"
@@ -5471,8 +5274,104 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "509f2ce9-3e84-11ea-a867-74867a6fa926",
-            "deck_config_uuid": "5097d9e9-3e84-11ea-b3ec-74867a6fa926",
+            "crowdanki_uuid": "243deea1-49c0-11ea-b284-74867a6fa926",
+            "deck_config_uuid": "1355ca99-3db5-11ea-8cde-74867a6fa926",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "paste-4c01fe7d9772828f208724c2b55bcd243ac917ae.jpg"
+            ],
+            "name": "Pending",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Generalisation accuracy",
+                        "<div>18.13</div>20:42"
+                    ],
+                    "flags": 0,
+                    "guid": "c]Y}b7<o|t",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Explain signed distance in Logistic regression",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "rmP~ZhlKsI",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": [
+                        "Logistic_Regression"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Why does L1 reg create sparsity in W as compared to L2 reg ?",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "h+>h{,?}c1",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": [
+                        "Optimization"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<p>Content-based filtering for recommendation systems</p>",
+                        "<p><img src=\"paste-4c01fe7d9772828f208724c2b55bcd243ac917ae.jpg\"></p><p>Traditionally, two approaches were used to give recommendations: content-based filtering\nand collaborative filtering.&nbsp;</p><p>Content-based filtering consists of learning what users like based on the description of the\ncontent they consume. For example, if the user of a news site often reads news articles on\nscience and technology, then we would suggest to this user more documents on science and\ntechnology. More generally, we could create one training set per user and add news articles\nto this dataset as a feature vector x and whether the user recently read this news article as a\nlabel y. Then we build the model of each user and can regularly examine each new piece of\ncontent to determine whether a specific user would read it or not.&nbsp;</p><p>The content-based approach has many limitations. For example, the user can be trapped in\nthe so-called filter bubble: the system will always suggest to that user the information that\nlooks very similar to what user already consumed. That could result in complete isolation of\nthe user from information that disagrees with their viewpoints or expands them. On a more\npractical side, the users might just stop following recommendations, which is undesirable.<br></p>"
+                    ],
+                    "flags": 0,
+                    "guid": "z2iN6^Lw<[",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": [
+                        "Recommender_systems"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Clustering as Matrix Factorization",
+                        "https://medium.com/analytics-vidhya/clustering-as-matrix-factorization-65b871cf2ab9<div><br></div><div>https://medium.com/@1993jayant/k-means-clustering-as-a-matrix-factorization-problem-ce1de56c6ec6<br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "u,9qU<zR]d",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": [
+                        "Recommender_systems"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Matrix Factorizaton for Collaborative filtering",
+                        "https://medium.com/sfu-big-data/recommendation-systems-collaborative-filtering-using-matrix-factorization-simplified-2118f4ef2cd3"
+                    ],
+                    "flags": 0,
+                    "guid": "lGsJONyy6E",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "243e15b7-49c0-11ea-b0ff-74867a6fa926",
+            "deck_config_uuid": "1355ca99-3db5-11ea-8cde-74867a6fa926",
             "desc": "",
             "dyn": 0,
             "extendNew": 10,
@@ -5494,6 +5393,74 @@
                         "Rcommender",
                         "systems"
                     ]
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "243e15be-49c0-11ea-9da0-74867a6fa926",
+            "deck_config_uuid": "1355ca99-3db5-11ea-8cde-74867a6fa926",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "paste-451c282edacef3b920580f8b318aa11b2404a080.jpg",
+                "paste-483d3cee80dc1360d633e00905baf9912f83f3fb.jpg",
+                "paste-9fc1fb7192cd520d5ce9062a0e915850f983458f.jpg",
+                "paste-a9d7a981a00f98e414ca96dfcdd523a0a0fc4f65.jpg",
+                "paste-c22580e8933e11e25fe052dbf2450c333268ecc4.jpg"
+            ],
+            "name": "34. Feature engineering",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Moving Windows",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "o*rJ,w$%}X",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Fourier decomposition",
+                        "Frequency<br>Amplitude<br>phase<div><br></div><div><img src=\"paste-9fc1fb7192cd520d5ce9062a0e915850f983458f.jpg\"><br></div><div><br></div><div>Understand frequency - it is very important<br>(oscillations per time period)</div><div><br></div><div>phase of a wave</div><div><img src=\"paste-483d3cee80dc1360d633e00905baf9912f83f3fb.jpg\"><br></div><div><br></div><div>compositve wave (repeating wave)</div><div>decomposite it into sum of sin waves</div><div><br></div><div>Converting time waveform(or domain) to frequency domain</div><div><img src=\"paste-a9d7a981a00f98e414ca96dfcdd523a0a0fc4f65.jpg\"><br></div><div><img src=\"paste-c22580e8933e11e25fe052dbf2450c333268ecc4.jpg\"><br></div><div><br></div><div>Frequency waveform is very useful for repeating patterns like heart wave(ECG) or e-commerce sale</div><div><br></div><div><br></div><div>To featurize this time data we create a feature vector with freqency and amplitude. This is called fourier representation of data.</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "Gv&T3&g/]M",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Deep Learning on featurization",
+                        "People spent years on signal processing even 30-50 years generating special features and understanding data.<div><br></div><div><img src=\"paste-451c282edacef3b920580f8b318aa11b2404a080.jpg\"><br></div><div><br></div><div>Over last 50 years researchers specialized in one topics like heartbeat data, speech data or even ecommerce data.<br><br>But things changed after 2013 DL</div><div><br></div><div>Automatically learns best featurizations for</div><div>- Time series data</div><div>- Text data</div><div>- Image data</div><div><br></div><div><br></div><div>Only if we have lots of data, DL has best features today for all these</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "je--!GD;Z_",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Image histograms",
+                        "faces, objects, scans, autonomous cars<div><br></div><div>DL CNN</div><div><br></div><div><br></div><div>Color histograms(RGB), edge-histogram</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "mP_GS0<QZ@",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": []
                 }
             ]
         }
@@ -5548,51 +5515,6 @@
                 "perDay": 100
             },
             "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoplay": true,
-            "crowdanki_uuid": "5097d9e9-3e84-11ea-b3ec-74867a6fa926",
-            "dyn": false,
-            "lapse": {
-                "delays": [
-                    10
-                ],
-                "leechAction": 0,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1,
-                    10
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    7
-                ],
-                "order": 1,
-                "perDay": 20,
-                "separate": true
-            },
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "fuzz": 0.05,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "minSpace": 1,
-                "perDay": 200
-            },
-            "timer": 0
         }
     ],
     "desc": "",
@@ -5602,84 +5524,6 @@
     "media_files": [],
     "name": "Machine Learning Anki",
     "note_models": [
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "50980100-3e84-11ea-a186-74867a6fa926",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Front",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Back",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Add Reverse",
-                    "ord": 2,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Basic (optional reversed card)",
-            "req": [
-                [
-                    0,
-                    "all",
-                    [
-                        0
-                    ]
-                ],
-                [
-                    1,
-                    "all",
-                    [
-                        1,
-                        2
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
-                    "bafmt": "",
-                    "bqfmt": "",
-                    "did": null,
-                    "name": "Card 1",
-                    "ord": 0,
-                    "qfmt": "{{Front}}"
-                },
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
-                    "bafmt": "",
-                    "bqfmt": "",
-                    "did": null,
-                    "name": "Card 2",
-                    "ord": 1,
-                    "qfmt": "{{#Add Reverse}}{{Back}}{{/Add Reverse}}"
-                }
-            ],
-            "type": 0,
-            "vers": []
-        },
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
