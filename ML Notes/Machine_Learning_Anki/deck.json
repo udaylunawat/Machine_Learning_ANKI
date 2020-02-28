@@ -576,7 +576,9 @@
                 "latex-bcbbbd442226f5afd2bfa9a99675190df785b6b8.png",
                 "muZarnFAVGktYRebYO2bObgRwZfnWhaTzSE90rlyk3JoTEMCHTn28WrhM6bqJ8CaIBUUxgeCTcagJauMtZn3EPJ05zUOxV37-p-R_bCHR1kjp6noW_GZ4qnT2eCJg3susC61.png",
                 "nqp3S8f9tSoAa_Xr-uz1pwH1Jg019Qg4BLDYGqxnfrDzcJRRASOUL6Ub_M_ros4w-meUiGFTQKO0xxuXfVALUOUHrFRw2ZPCBKoOC_f9hhOtDCuG-zE1CZMti9WB-8KmHlt0.png",
+                "paste-030ac64a45e6975990e0a20590ac5f95ef9a4523.jpg",
                 "paste-1d7e911742c56967e1051a254d74010f204a1117.jpg",
+                "paste-1e0b530fb2fc5a9c001b9dc7467c0f64080441a9.jpg",
                 "paste-4a97959a95c06938f902127d1b2bf31563b83a85.jpg",
                 "paste-cab3e31bffd27baa6310b5559831306fd4d947f9.jpg",
                 "paste-fe765f23724813199a798946ab64204b4daa840d.jpg",
@@ -1828,6 +1830,42 @@
                     "tags": [
                         "Probability"
                     ]
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Length of vector? norm?",
+                        "<img src=\"paste-030ac64a45e6975990e0a20590ac5f95ef9a4523.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "b!R2~)+QYZ",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "power law to gaussian?",
+                        "If a r.v is power law distributed, we can use log(x) to make it hopefully closer to gaussian distibution.<div>box-cox transform</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "d4?PAi`Bdc",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Mathematical transforms",
+                        "<img src=\"paste-1e0b530fb2fc5a9c001b9dc7467c0f64080441a9.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "q5YvN(v|O~",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": []
                 }
             ]
         },
@@ -1855,8 +1893,10 @@
                 "paste-51dfe6e3d13ce329fd3cf8a4b27e497653e7e8a7.jpg",
                 "paste-bb87904edd333f16742da11d1515816f6f849a1f.jpg",
                 "paste-d1a2eb34c46f8a8105c0839330fc8bdb2a8c8f79.jpg",
+                "paste-fda5962eef8e731f750bb43a1374015c89589b24.jpg",
                 "paste-feb696715bc8981f40a647e611674a5c2b8d117f.jpg",
-                "xpKmRe--cI6bycwyffSK8rWWawbFF9pwcMydWI0rBx315zBT5ThVWgaSEhQlyNgL1_Qv4MlaZ5GYAR_V-baPjiPw8QOpxUE5ku5igoJ28Xrgpef_nkf1n4klTNFbCyAMpfq3.png"
+                "xpKmRe--cI6bycwyffSK8rWWawbFF9pwcMydWI0rBx315zBT5ThVWgaSEhQlyNgL1_Qv4MlaZ5GYAR_V-baPjiPw8QOpxUE5ku5igoJ28Xrgpef_nkf1n4klTNFbCyAMpfq3.png",
+                "xslope-intercept-method.png.pagespeed.ic.VZSoes99Zm.png"
             ],
             "name": "11. Linear Algebra",
             "notes": [
@@ -1935,7 +1975,7 @@
                     "data": "",
                     "fields": [
                         "Dot Product (Formula)",
-                        "<img src=\"paste-feb696715bc8981f40a647e611674a5c2b8d117f.jpg\"><b><br></b><div><br></div><div>OR</div><div><br></div><div>a.b = a<sub>1</sub>b<sub>1&nbsp;</sub>+ a<sub>2</sub>b<sub>2</sub>&nbsp;where (a<sub>1</sub>,a<span style=\"font-size: 16.6667px;\"><sub>2</sub></span>) and (b<sub>1</sub><span>,b</span><sub>2</sub><span>) are co-ordinates&nbsp; on x-axis and y-axis respectively</span></div><div><span><br></span></div><div><span>The same formula can be applied in multiple dimensional vectors as well</span></div>"
+                        "<img src=\"paste-feb696715bc8981f40a647e611674a5c2b8d117f.jpg\"><b><br></b><div><br></div><div>OR</div><div><br></div><div>a.b = a<sub>1</sub>b<sub>1&nbsp;</sub>+ a<sub>2</sub>b<sub>2</sub>&nbsp;where (a<sub>1</sub>,a<span style=\"font-size: 16.6667px;\"><sub>2</sub></span>) and (b<sub>1</sub><span>,b</span><sub>2</sub><span>) are co-ordinates&nbsp; on x-axis and y-axis respectively</span></div><div><span><br></span></div><div><span>The same formula can be applied in multiple dimensional vectors as well</span></div><div><span><br></span></div><div><img src=\"paste-fda5962eef8e731f750bb43a1374015c89589b24.jpg\"><span><br></span></div>"
                     ],
                     "flags": 0,
                     "guid": "dE:w=wKc9a",
@@ -1991,7 +2031,7 @@
                     "data": "",
                     "fields": [
                         "Equation of a line&nbsp;",
-                        "y = mx + b where 'm' is a slope and 'b' is an intercept<div><br></div>"
+                        "y = mx + b where 'm' is a slope and 'b' is an intercept<div><img src=\"xslope-intercept-method.png.pagespeed.ic.VZSoes99Zm.png\"><br></div>"
                     ],
                     "flags": 0,
                     "guid": "EAXnAy4}t?",
@@ -5406,11 +5446,31 @@
             "extendNew": 10,
             "extendRev": 50,
             "media_files": [
+                "paste-1338c69bd9eb8d64bd6be3a3f90b2f8d2a2bd637.jpg",
+                "paste-1e8fa46ccc258b977dbe3abc7aee925be9a5a028.jpg",
+                "paste-31c268e2a8d903fc15ed72d8c2781c61e3cd8fb3.jpg",
                 "paste-451c282edacef3b920580f8b318aa11b2404a080.jpg",
                 "paste-483d3cee80dc1360d633e00905baf9912f83f3fb.jpg",
+                "paste-603f634ff19ec41ee3c1f30335f3fbef6adc5653.jpg",
+                "paste-665492987a5bc88ffecacbbf2194eb1f07c25613.jpg",
+                "paste-6da80bb90b504dd578a50463974c6d3c1faa965c.jpg",
+                "paste-8b278a9750b96536343269aa3a238044f2c7a912.jpg",
+                "paste-8c97ee79f67b6fda361bb99233353439c6f872c1.jpg",
+                "paste-8e3d697012e651b84740d96949a996926252726f.jpg",
+                "paste-92c13caf1e054375fde6f6f96453d8163182568c.jpg",
+                "paste-96d075009d40c11920d1b0b2320ef1bbdb23a1eb.jpg",
                 "paste-9fc1fb7192cd520d5ce9062a0e915850f983458f.jpg",
+                "paste-a1f520b2e19ec4567d3c81a6eb4baf3f4326bbb8.jpg",
+                "paste-a2ef799e3ec5eeadb6f0b1bf7f384b78a3994f1e.jpg",
                 "paste-a9d7a981a00f98e414ca96dfcdd523a0a0fc4f65.jpg",
-                "paste-c22580e8933e11e25fe052dbf2450c333268ecc4.jpg"
+                "paste-c22580e8933e11e25fe052dbf2450c333268ecc4.jpg",
+                "paste-e075ecdfaca1a61c86b06c931008048268e78e4f.jpg",
+                "paste-e08382de404c475f9f3e6188806cbeaf7de3d66f.jpg",
+                "paste-e875818d16641aff1eb0d6d6c0e4078dff93989d.jpg",
+                "paste-eb3cc615f007b41295958013629ca00e29d46b0f.jpg",
+                "paste-ed02cd92b663af0ded085898b91371cc19e51b67.jpg",
+                "paste-f25db1b063261da1017370cf7cdfd7ed4b80d527.jpg",
+                "paste-fa022683538118e6f0287b80ebe29969b16f1f10.jpg"
             ],
             "name": "34. Feature engineering",
             "notes": [
@@ -5419,7 +5479,7 @@
                     "data": "",
                     "fields": [
                         "Moving Windows",
-                        ""
+                        "<img src=\"paste-665492987a5bc88ffecacbbf2194eb1f07c25613.jpg\">"
                     ],
                     "flags": 0,
                     "guid": "o*rJ,w$%}X",
@@ -5459,6 +5519,269 @@
                     ],
                     "flags": 0,
                     "guid": "mP_GS0<QZ@",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "SIFT",
+                        "Useful for detecting objects in Image<div>early 2000</div><div><br></div><div>The scale-invariant feature transform</div><div>&nbsp;feature detection algorithm</div><div>used to detect and describe local features in images.<br></div><div><br></div><div>Image search</div><div>Take a picture of book cover</div><div><br></div><div><div>SIFT is used for feature matching. The meaning of scale invariance is it is rotation invariant and size invariant.</div><div>Let us take an example.</div><div>Take an image of door. The door has 4 corners and these corners are my feature descriptors. Let it be original image.</div><div>Then change the image size and even rotate it. Still the image has 4 corners. still the feature is maintained. This is reference image.</div><div>The reference image can be compared to original image using these features.</div><div>So when an image size is changing and also rotated some features never change. That's why they are called scale invariant.</div></div><div><br></div><div>A variant is used in amazon for image search</div><div><br></div><div>So it works well even if the image is shrunk or rotated slightly</div><div><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "DPc#($dpN5",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Why SIFT?",
+                        "Scale invariance means that these features would not change much even if the size of the image changes much"
+                    ],
+                    "flags": 0,
+                    "guid": "N(MHs1I<X+",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Deep Learning features",
+                        "Time series - LSTM<div>Images - CNN</div><div><br></div><div>Pro tip - Use CNN's for Image data</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "vp?;WQSkh*",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Relational data featurizations",
+                        "simple ecommerce concepts<div><br></div><div>no. of times visited product id page in last 24hrs (groupby)</div><div><br></div><div>no. of times customer visited any product which belong to the same type as the product id</div><div><br></div><div>income level</div><div>zipcode</div><div><br></div><div>means domain knowledge</div><div>When you use SQL it is called relational features</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "P8{t9bgk%{",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "&nbsp;featurization in Graph data",
+                        "eg with fb social graph<div><br></div><div>task - recommend new friends</div><div><br></div><div>mutual friends</div><div>no. of paths between vertices</div><div><br></div><div>Graph-theory is a subject and multi-semester course in itself</div><div><br></div><div>min-spanning trees</div><div>shortest-path</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "m6/V~YTX{k",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Indicator variables (feature engineering)",
+                        "<div>E.g. 1</div>height -&gt; 150cm<div>it's a real values feature</div><div><br></div><div>height &gt; 150 -&gt; 1 else 0&nbsp;</div><div>eg- predicting gender from height</div><div><br></div><div>indicator variables are usually binary</div><div><br></div><div>E.g. 2 - converting categorical feature into indicator variable</div><div>countries</div><div><br></div><div>if country=India/USA</div><div>return 1 else 0</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "yqiiveN@c3",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "feature binning",
+                        "<div>extension to indicator variables</div><img src=\"paste-e875818d16641aff1eb0d6d6c0e4078dff93989d.jpg\"><div><br></div><div>How to get right thresholds?<br>Problem specific</div><div>Domain knowledge</div><div><br></div><div>2) Predict gender given height, weight, hairlength, hair color</div><div><br></div><div>How to do feature-binning given heights?</div><div><br></div><div>&nbsp;<img src=\"paste-603f634ff19ec41ee3c1f30335f3fbef6adc5653.jpg\"></div><div><img src=\"paste-92c13caf1e054375fde6f6f96453d8163182568c.jpg\"><br></div><div><br></div><div>Lots of Kaggle competitions use this</div><div><br></div><div>So the VIP to learn is that models can also be used for FE</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "jj}62>}E1_",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Interaction variables",
+                        "Using logical operators to use multiple features<div>This is called logical multi-way interaction features</div><div><br></div><div><img src=\"paste-1338c69bd9eb8d64bd6be3a3f90b2f8d2a2bd637.jpg\"><br></div><div><img src=\"paste-31c268e2a8d903fc15ed72d8c2781c61e3cd8fb3.jpg\"><br></div><div><br></div><div>How do you find good interaction features?</div><div><br></div><div>Decision trees</div><div><img src=\"paste-96d075009d40c11920d1b0b2320ef1bbdb23a1eb.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "j6;Yda|xf8",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Model specific featurizations",
+                        "We know that Logistic regression is Gaussian Nave bayes<div>And Gaussian naive bayes internally assumes that features are Gaussian distributed</div><div><img src=\"paste-eb3cc615f007b41295958013629ca00e29d46b0f.jpg\"><br></div><div><br></div><div>Eg2</div><div>Regression problem</div><div>y ~ f1 - f2 + 2f3 (domain knowledge)</div><div>It's a Linear combination</div><div>Hence linear models work better</div><div><br></div><div><img src=\"paste-f25db1b063261da1017370cf7cdfd7ed4b80d527.jpg\"><br></div><div><br></div><div>Eg 3 -&nbsp;</div><div>interaction of features f1 &amp; f2</div><div>predicting gender</div><div>Here DT/RF/GBDT work better</div><div><img src=\"paste-8e3d697012e651b84740d96949a996926252726f.jpg\"><br></div><div><br></div><div><br></div><div><b>So what featurization works is also model specific.</b></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "P;#9T4-#`f",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Feature orthogonality",
+                        "<b>The more different the features are, the better would your models be when we combine all the features</b><div><br></div><div>High corelation amongst features reduces their overall impact.</div><div><br></div><div>Low impact</div><div><img src=\"paste-6da80bb90b504dd578a50463974c6d3c1faa965c.jpg\"><br></div><div><br></div><div>High impact</div><div><img src=\"paste-a2ef799e3ec5eeadb6f0b1bf7f384b78a3994f1e.jpg\"><br></div><div><br></div><div>How to design a feature which corelates with y but correlates very little with existing features?</div><div><br></div><div>Try to ensure that f4 is well correlated with error</div><div><img src=\"paste-a1f520b2e19ec4567d3c81a6eb4baf3f4326bbb8.jpg\"><br></div><div><img src=\"paste-e08382de404c475f9f3e6188806cbeaf7de3d66f.jpg\"><br></div><div>This is the core idea of Boosting/GBDT's</div><div><img src=\"paste-1e8fa46ccc258b977dbe3abc7aee925be9a5a028.jpg\"><br></div><div><br></div><div>Be careful to avoid overfitting</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "K>vSza%g0I",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Domain specific featurization",
+                        "Importance of researching &amp; studying existing featurizations<div><img src=\"paste-fa022683538118e6f0287b80ebe29969b16f1f10.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "wR<o%;8HT<",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Feature slicing",
+                        "Eg- a column country has 80% india and 20% USA<div>In this scenario the default model will tend to perform better on Indians.</div><div><img src=\"paste-ed02cd92b663af0ded085898b91371cc19e51b67.jpg\"><br></div><div><br></div><div>How to detect this?</div><div>Split the data between Indians and USA</div><div>Get the errors</div><div>Plot the distributon of errors</div><div><br></div><div><img src=\"paste-e075ecdfaca1a61c86b06c931008048268e78e4f.jpg\"><br></div><div><br></div><div>Notice that the model is doing more errors on people from USA</div><div><br></div><div>Solution:-</div><div>Strategy 1) Split data into 2 parts</div><div>DIndia and DUSA</div><div>Create 2 models</div><div>As we've sufficient data</div><div><br></div><div><b>This idea of slicing the data based on features and creating multiple models is called feature slicing.</b></div><div><b><br></b></div><div>Conditions:-</div><div>1) Cat1 and Cat2 should be different</div><div>2) Sufficient data for each slice</div><div><br></div><div><img src=\"paste-8b278a9750b96536343269aa3a238044f2c7a912.jpg\"><br></div><div><br></div><div>Then train two models</div><div><br></div><div>Eg2- desktop traffic and mobile traffic</div><div>Mobile users and desktop users behave significantly different</div><div><br></div><div><img src=\"paste-8c97ee79f67b6fda361bb99233353439c6f872c1.jpg\"><br></div><div><br></div><div><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "mILbGIf?cQ",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Kaggel Winners Interviews tips",
+                        "Read kaggle interviews weekly<div>Because you can't obviously solve 100's of problems</div><div><br></div><div>You can also go to kaggle and browse competition dscussions</div><div><br></div><div>Btw there's two types of approach</div><div>Applied AI</div><div>Research AI</div><div><br></div><div>As a beginner you should focus 90% time on AppliedAI</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "PA;(kbfFQ0",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "29e1325a-59fc-11ea-bfd5-74867a6fa926",
+            "deck_config_uuid": "1355ca99-3db5-11ea-8cde-74867a6fa926",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "paste-2586ce714e2a7b5e2631cc7ea3236ae81162a7ca.jpg",
+                "paste-2c309602071df3d13a312fa1bf4de04c7dc078fa.jpg",
+                "paste-64a6f29ea5e8275f4a01e5bb3d16a1ffdc4a914e.jpg"
+            ],
+            "name": "29. Support Vector Machines",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Geometric Intuition",
+                        "<img src=\"paste-2586ce714e2a7b5e2631cc7ea3236ae81162a7ca.jpg\">"
+                    ],
+                    "flags": 0,
+                    "guid": "MaC=)il:q=",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "WHY WE TAKE +1 AND -1 FOR SUPPORT VECTOR PLANES",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "qR&XyEIy@y",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Why do we initially assume for w to not be a unit vector?",
+                        "||w|| - length of w OR l2 norm<div><br></div><div><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "M{t4%AuiRM",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "SVM All Terms",
+                        "Weight<div>Bias</div><div>Optimal hyperplane</div><div>Margin &amp; it's formulae</div><div>Margin maximisation</div><div><br></div><div><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "f8n=1c=$9S",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "How to update w and b&nbsp; to get argmin w,b (for SVM)?",
+                        "<img src=\"paste-64a6f29ea5e8275f4a01e5bb3d16a1ffdc4a914e.jpg\"><div><br></div><div><img src=\"paste-2c309602071df3d13a312fa1bf4de04c7dc078fa.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "Fq3@y9m<mf",
+                    "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "29e1597d-59fc-11ea-b08e-74867a6fa926",
+            "deck_config_uuid": "1355ca99-3db5-11ea-8cde-74867a6fa926",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "paste-5e8ec4f71e3c4b22eb71cb2b670d368fa7940235.jpg",
+                "paste-97d1c294d3013860586305db64ba22b9d9c8f86d.jpg"
+            ],
+            "name": "31. Decision trees",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Geometric Intuition of Dtrees",
+                        "Simple nested if-else model<div><img src=\"paste-97d1c294d3013860586305db64ba22b9d9c8f86d.jpg\"><img src=\"paste-5e8ec4f71e3c4b22eb71cb2b670d368fa7940235.jpg\"><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "eMBv?oCtO+",
                     "note_model_uuid": "135618f6-3db5-11ea-94a4-74867a6fa926",
                     "tags": []
                 }
